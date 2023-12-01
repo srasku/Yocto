@@ -1,0 +1,2 @@
+- `do_fetch` - Fetch code from `SRC_URI`.
+- `do_unpack` - Unpack source code into recipe's `WORKDIR`.  Ultimately resides in `S` directory.
